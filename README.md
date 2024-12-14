@@ -24,19 +24,3 @@ The project results, including the authored thesis, provide valuable insights in
 - **Benchmarking:** Performance compared with FastText to highlight improvements and limitations.
 
 ---
-
-## Project Structure
-
-```plaintext
-├── data/
-│   ├── raw_data/         # Unprocessed datasets used for training
-│   ├── processed_data/   # Preprocessed datasets ready for embedding models
-├── models/
-│   ├── gensim_model/     # Trained word embedding models
-│   ├── cnn_rnn_models/   # Evaluation models using CNN and RNN
-├── notebooks/
-│   ├── training.ipynb    # Training scripts for word embeddings
-│   ├── evaluation.ipynb  # Evaluation and benchmarking scripts
-├── thesis/
-│   ├── Bengali_Embedding_Thesis.pdf  # Full thesis document
-├── README.md             # Project documentation
